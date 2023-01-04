@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    height: 120px;
+    width: 120px;
+    border-radius: 90px ;
+}
+.name{
+    text-align: center;
+    margin: 10px;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.name p {
+    background-color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.aboutMe {
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 10px;
+}
+.center {
+    text-align: center;
+}
+.dash {
+    border: 3px dashed rgb(50, 141, 141);
+    color: rgb(66, 159, 159);
+    padding: 10px; 
+    font-size: 25px;
+}
+.coding {
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid gray;
+    padding: 50px;
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    padding: 10px;
+    font: bold;
+    text-align: center;
+}
+
+.learn, .play, .practice, .code, .explore {
+    background-color: orange;
+    color: white;
+}
+.skill {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px;
+}
+
+.container {
+    width: 60%;
+    background-color: gray;
+
+}
+.html {
+    width: 90%;
+    background-color: yellowgreen;
+}
+.css {
+    width: 70%;
+    background-color: yellowgreen;
+
+}
+.js {
+    background-color: yellowgreen;
+    width: 85%;
+}
+.skills {
+    text-align: right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+}
+
+.contact {
+    background-color: white;
+    margin: 10px;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.fb {
+    height: 20px;
+    width: 800px;
+    border: 3px dashed darkgray;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+
+}
+
+
+.submit {
+    background-color: rgb(50, 141, 141);
+    width: 800px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0;
+
+
+}
